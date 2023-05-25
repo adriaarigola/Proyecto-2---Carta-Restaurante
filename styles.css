@@ -60,3 +60,12 @@ footer {
     font-size: 26px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+/* contenido contacto */
+.mapa {
+    margin: 20px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
