@@ -69,3 +69,23 @@ footer {
 .btn {
     margin-bottom: 20px;
 }
+
+/* contenido menús */
+.titulosMenu {
+    text-align: center;
+    padding: 20px;
+}
+
+.contenidoCarta {
+    text-align: center;
+}
+
+.formulas {
+    padding: 30px;
+}
+
+.aspectoFormulas {
+    height: 600px;
+    outline: yellow 1px solid;
+    margin-inline: 10px;
+}
