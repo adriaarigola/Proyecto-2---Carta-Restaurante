@@ -41,3 +41,22 @@ footer {
     text-align: center;
     color: white;
 }
+
+/* contenido index */
+.lasanta-image {
+    padding-bottom: 30px;
+}
+
+.separador {
+    width: 160px;
+}
+
+.height-img {
+    height: 260px;
+    justify-content: center;
+}
+
+.descripcion {
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
