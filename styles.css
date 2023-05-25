@@ -89,3 +89,31 @@ footer {
     outline: yellow 1px solid;
     margin-inline: 10px;
 }
+
+/* contenido carta */
+.tituloCarta {
+    padding: 10px;
+    background-color: #88dbdb;
+    text-align: center;
+}
+
+.subtituloCarta {
+    padding: 20px;
+}
+
+.tituloArroz {
+    text-align: center;
+}
+
+.tituloArroces {
+    padding: 20px;
+}
+
+.card-img-top {
+    height: 320px !important;
+}
+
+
+.card-img-down {
+    height: 270px;
+}
