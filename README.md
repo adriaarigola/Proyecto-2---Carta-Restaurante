@@ -27,23 +27,23 @@ Y lo dividí las siguientes pestañas:
 
 ## Stack
 <div align="center">
-<a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src= "https://efa-centro.org/wp-content/uploads/2017/02/html5-efa-moratalaz-263x263.png"/>
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src= "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png"/>
-</a>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  </div>
 
 ## Vistas
 Landing
-<img src="./img/resultadoFinal/landingHome.png"> 
+<img src="./img/resultadoFinal/landingHome.png"/> 
+
 Vista Mobile
-<img src="./img/resultadoFinal/landingMobile.png">
+<img src="./img/resultadoFinal/landingMobile.png"/>
+
 Landing Carta
-<img src="./img/resultadoFinal/landingCarta.png">
+<img src="./img/resultadoFinal/landingCarta.png"/>
 
 
 ## Contacto
