@@ -5,6 +5,7 @@
   <ol>
     <li><a href="#objetivo-🎯">Objetivo</a></li>
     <li><a href="#sobre-el-proyecto-🔎">Sobre el proyecto</a></li>
+    <li><a href="#deploy-🚀">Deploy</a></li>
     <li><a href="#stack">Stack</a></li>
     <li><a href="#vistas">Vistas</a></li>
     <li><a href="#contacto">Contacto</a></li>
@@ -23,7 +24,11 @@ Y lo dividí las siguientes pestañas:
 - Carta
 - Menús
 - Contacto
-  
+
+## Deploy 🚀
+<div align="center">
+    <a href="https://adriaarigola.github.io/Proyecto-2---Carta-Restaurante/carta.html"><strong>Url a producción </strong></a>🚀🚀🚀
+</div>  
 
 ## Stack
 <div align="center">
